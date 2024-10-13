@@ -30,7 +30,3 @@ def solution(N, stages):
         answer.append(y[0])
     
     return answer
-
-num1 = 4
-stages = [4,4,4,4,4]
-print(solution(num1,stages))
