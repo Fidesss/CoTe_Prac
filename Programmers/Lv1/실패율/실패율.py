@@ -1,4 +1,5 @@
 def solution(N, stages):
+    
     challenger = [0] * (N+2)
     for stage in stages:                            # 각 스테이지에 도전하는 사람들을 저장하는 리스트
         challenger[stage] += 1
