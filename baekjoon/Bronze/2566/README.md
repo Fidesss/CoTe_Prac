@@ -1,6 +1,6 @@
 <br>
 
-# 🛠️ [2285 우체국](https://acmicpc.net/problem/2566)
+# 🛠️ [2566 최댓값](https://acmicpc.net/problem/2566)
 <br>
 
 ## 📖 문제
