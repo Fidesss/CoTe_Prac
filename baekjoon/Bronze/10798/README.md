@@ -4,7 +4,7 @@
 <br>
 
 ## 📖 문제
-[9c8baa32aaa531112ffe3f90fe57714ed698ffb798318abbd59313993971d794.tiff](https://github.com/user-attachments/files/35458588/9c8baa32aaa531112ffe3f90fe57714ed698ffb798318abbd59313993971d794.tiff)
+<img width="2368" height="1210" alt="image" src="https://github.com/user-attachments/assets/5478d08c-c8dd-4201-8049-029e6566f199" />
 <br><br>
 
 ## ⌨️ 입력
